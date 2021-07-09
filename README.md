@@ -12,5 +12,5 @@ Today I learned: arrays, sets, tuples, dictionaries and enums.
 
 ### Day 3 - July 9, 2021
 Today I learned: Operators and conditional statements.
-* Commit: 03/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/03/MyPlayground.playground)
+* Commit: [03/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/03/MyPlayground.playground)
 
