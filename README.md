@@ -14,3 +14,7 @@ Today I learned: arrays, sets, tuples, dictionaries and enums.
 Today I learned: Operators and conditional statements.
 * Commit: [03/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/03/MyPlayground.playground)
 
+### Day 4 - July 10, 2021
+Today I learned about for, while, repeat and infinite loops in Swift. Also learned how to label, nest and break from them. 
+* Commit: [04/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/04/MyPlayground.playground)
+
