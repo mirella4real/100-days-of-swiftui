@@ -18,3 +18,6 @@ Today I learned: Operators and conditional statements.
 Today I learned about for, while, repeat and infinite loops in Swift. Also learned how to label, nest and break from them. 
 * Commit: [04/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/04/MyPlayground.playground)
 
+### Day 5 - July 12, 2021 (took Sunday off)
+Today I learned about functions in Swift: declaring functions, specifying default param values, omitting param labels in calls, returning values, variadic functions and how to call functions that trow errors in a do, try, catch block.
+* Commit: [05/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/05/MyPlayground.playground)
