@@ -21,3 +21,11 @@ Today I learned about for, while, repeat and infinite loops in Swift. Also learn
 ### Day 5 - July 12, 2021 (took Sunday off)
 Today I learned about functions in Swift: declaring functions, specifying default param values, omitting param labels in calls, returning values, variadic functions and how to call functions that trow errors in a do, try, catch block.
 * Commit: [05/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/05/MyPlayground.playground)
+
+### Day 6 - July 13, 2021 
+Part one of closures in Swift!  Creating closures with and without parameters, returning values from a closure, passing a closure as a parameter and trailing closure syntax.
+* Commit: [06/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/06/MyPlayground.playground)
+
+### Day 7 - July 14, 2021 
+Today was about different ways to declare parameters and return values for closures that are passed as parameters.
+* Commit: [06/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/07/MyPlayground.playground)
