@@ -28,4 +28,8 @@ Part one of closures in Swift!  Creating closures with and without parameters, r
 
 ### Day 7 - July 14, 2021 
 Today was about different ways to declare parameters and return values for closures that are passed as parameters.
-* Commit: [06/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/07/MyPlayground.playground)
+* Commit: [07/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/07/MyPlayground.playground)
+
+### Day 8 - July 15, 2021 
+Learned about struts, the difference between struts and classes, and that Strings and Arrays are struts with their own properties and methods.
+* Commit: [08/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/08/MyPlayground.playground)
