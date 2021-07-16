@@ -31,5 +31,9 @@ Today was about different ways to declare parameters and return values for closu
 * Commit: [07/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/07/MyPlayground.playground)
 
 ### Day 8 - July 15, 2021 
-Learned about struts, the difference between struts and classes, and that Strings and Arrays are struts with their own properties and methods.
+Learned about structs, the difference between structs and classes, and that Strings and Arrays are struts with their own properties and methods.
 * Commit: [08/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/08/MyPlayground.playground)
+
+### Day 9 - July 16, 2021 
+Today I learned more about structs:  Initializers and several keywords(self, lazy, static, public, private) 
+* Commit: [09/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/09/MyPlayground.playground)
