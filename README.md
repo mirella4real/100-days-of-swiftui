@@ -37,3 +37,7 @@ Learned about structs, the difference between structs and classes, and that Stri
 ### Day 9 - July 16, 2021 
 Today I learned more about structs:  Initializers and several keywords(self, lazy, static, public, private) 
 * Commit: [09/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/09/MyPlayground.playground)
+
+### Day 10 - July 18, 2021 (took Saturday off)
+Today I learned about classes and the difference between classes and structs
+* Commit: [10/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/10/MyPlayground.playground)
