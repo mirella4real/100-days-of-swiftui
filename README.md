@@ -41,3 +41,7 @@ Today I learned more about structs:  Initializers and several keywords(self, laz
 ### Day 10 - July 18, 2021 (took Saturday off)
 Today I learned about classes and the difference between classes and structs
 * Commit: [10/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/10/MyPlayground.playground)
+
+### Day 11 - July 19, 2021 
+Today I learned about protocols and extensions in Swift. Applying my knowledge of Java interfaces to understand protocols :)
+* Commit: [11/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/11/MyPlayground.playground)
