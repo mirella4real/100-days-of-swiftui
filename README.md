@@ -45,3 +45,7 @@ Today I learned about classes and the difference between classes and structs
 ### Day 11 - July 19, 2021 
 Today I learned about protocols and extensions in Swift. Applying my knowledge of Java interfaces to understand protocols :)
 * Commit: [11/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/11/MyPlayground.playground)
+
+### Day 12 - July 20, 2021 
+Almost did not complete today! Glad I did, since there was a lot of content: nil, optionals, unwrapping, typecasting.  I will need to review to make sure I understood everything.
+* Commit: [12/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/12/MyPlayground.playground)
