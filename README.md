@@ -49,3 +49,7 @@ Today I learned about protocols and extensions in Swift. Applying my knowledge o
 ### Day 12 - July 20, 2021 
 Almost did not complete today! Glad I did, since there was a lot of content: nil, optionals, unwrapping, typecasting.  I will need to review to make sure I understood everything.
 * Commit: [12/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/12/MyPlayground.playground)
+
+### Day 13 - July 24, 2021 (Missed a few days, will try to make up!)
+Swift review, day 1: Hello again variables, constants, data types, operators, arrays, dictionaries, conditional statements, loops and switch!
+* Commit: [13/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/13/MyPlayground.playground)
