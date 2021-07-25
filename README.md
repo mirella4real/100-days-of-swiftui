@@ -53,3 +53,8 @@ Almost did not complete today! Glad I did, since there was a lot of content: nil
 ### Day 13 - July 24, 2021 (Missed a few days, will try to make up!)
 Swift review, day 1: Hello again variables, constants, data types, operators, arrays, dictionaries, conditional statements, loops and switch!
 * Commit: [13/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/13/MyPlayground.playground)
+
+### Day 14 - July 25, 2021 
+Swift review, day 2: Another fantastic review day! Functions, optionals, optional chaining, enums, structs and classes.
+* Commit: [14/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/14/MyPlayground.playground)
+
