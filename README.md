@@ -58,3 +58,7 @@ Swift review, day 1: Hello again variables, constants, data types, operators, ar
 Swift review, day 2: Another fantastic review day! Functions, optionals, optional chaining, enums, structs and classes.
 * Commit: [14/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/14/MyPlayground.playground)
 
+### Day 15 - July 25, 2021 
+Playing catchup. Swift review, day 3: I still want to review closures again. Finishing up today with a review of properties, static properties and methods, access control, polymorphism, type casting and closures
+* Commit: [15/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/15/MyPlayground.playground)
+
