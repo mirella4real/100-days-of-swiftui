@@ -69,6 +69,7 @@ Finally working with projects!  Project 1, Part 1: Today I learned about Form, G
 ### Day 17 - July 27, 2021 
 Finally working with projects!  Project 1, Part 2:  Worked on the WeSplit app!
 * Commit: [17/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17/MyPlayground.playground)
+* Video:
     [17/weSplit-part2.mov](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17/weSplit-part2.mov)
 
 
