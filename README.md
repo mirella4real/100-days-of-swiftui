@@ -64,12 +64,19 @@ Playing catchup. Swift review, day 3: I still want to review closures again. Fin
 
 ### Day 16 - July 26, 2021 
 Finally working with projects!  Project 1, Part 1: Today I learned about Form, Group, Section, State, adding a navigation bar, text field, picker and two-way binding
-* Commit: [16/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/16/MyPlayground.playground)
+* Commit: [16/WeSplit](https://github.com/mirella4real/100-days-of-swiftui/tree/main/16)
 
 ### Day 17 - July 27, 2021 
 Finally working with projects!  Project 1, Part 2:  Worked on the WeSplit app!
-* Commit: [17/MyPlayground.playground](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17/MyPlayground.playground)
+* Commit: [17/WeSplit](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17)
 * Video:
     [17/weSplit-part2.mov](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17/weSplit-part2.mov)
+
+### Day 18 - July 29, 2021 
+Project 1, Part 3:  Completed the challenge for the WeSplit app!
+* Commit: [18/WeSplit](https://github.com/mirella4real/100-days-of-swiftui/tree/main/18)
+* Screenshot:
+    [18/weSplit-part3.png](https://github.com/mirella4real/100-days-of-swiftui/tree/main/18/weSplit-part3.png)
+
 
 
