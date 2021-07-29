@@ -72,7 +72,7 @@ Finally working with projects!  Project 1, Part 2:  Worked on the WeSplit app!
 * Video:
     [17/weSplit-part2.mov](https://github.com/mirella4real/100-days-of-swiftui/tree/main/17/weSplit-part2.mov)
 
-### Day 18 - July 29, 2021 
+### Day 18 - July 28, 2021 
 Project 1, Part 3:  Completed the challenge for the WeSplit app!
 * Commit: [18/WeSplit](https://github.com/mirella4real/100-days-of-swiftui/tree/main/18)
 * Screenshot:
