@@ -78,5 +78,9 @@ Project 1, Part 3:  Completed the challenge for the WeSplit app!
 * Screenshot:
     [18/weSplit-part3.png](https://github.com/mirella4real/100-days-of-swiftui/tree/main/18/weSplit-part3.png)
 
+### Day 16.1 - Sep 1, 2021 
+I have not given up! Picking up with a review of Project 1 before continuing.
+* Commit: [18/WeSplit](https://github.com/mirella4real/100-days-of-swiftui/tree/main/16.1)
+
 
 
